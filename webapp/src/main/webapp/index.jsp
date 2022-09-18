@@ -16,6 +16,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="city"><b>Enter City of Residence</b></label>
+    <input type="text" placeholder="Enter City of Residence" name="city" id="city" required>
+    <br>
+
     <label for="psw"><b>Passwort/Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
